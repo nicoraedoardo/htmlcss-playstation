@@ -16,8 +16,7 @@
 
 .carte {
   background-color: #1f1f1f;
-  padding-top: 17rem;
-  padding-bottom: 5rem;
+
   background-size: cover;
   background-position: center;
 }
@@ -25,6 +24,12 @@
 .plus {
   background-color: #bebcbb;
 
+  background-size: cover;
+  background-position: center;
+}
+
+.Playnow {
+  background-color: #161c3b;
   background-size: cover;
   background-position: center;
 }
