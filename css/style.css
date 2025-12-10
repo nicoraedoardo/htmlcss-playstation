@@ -6,5 +6,18 @@
   background-position: center;
 }
 
-.jumbo {
+.play {
+  background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+  padding-top: 17rem;
+  padding-bottom: 5rem;
+  background-size: cover;
+  background-position: center;
+}
+
+.carte {
+  background-color: #1f1f1f;
+  padding-top: 17rem;
+  padding-bottom: 5rem;
+  background-size: cover;
+  background-position: center;
 }
